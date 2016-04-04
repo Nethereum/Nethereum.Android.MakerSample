@@ -1,10 +1,10 @@
 # Nethereum.Android.MakerSample
 
-Quick example of using Nethereum in an Android Client using the ERC20 standard token of Maker using the Portable class library.
+Quick example of the compatibility of the Nethereum portable library with Android / Xamarin, the example uses the ERC20 standard token implemented by Maker. 
 
-This is built using Xamarin, which is now free after Microsofts Merger. Get it here https://www.xamarin.com/download
+Xamarin for Visual Studio or Studio is now free after the announcement at Microsoft Build 2016. Get it here https://www.xamarin.com/download
 
-The example validates the portable library of Nethereum, for connectivity, contract encoding and decoding, and normal interactivity using geth (unlock account).
+The example validates connectivity, contract encoding and decoding, and normal interactivity using geth (unlock account).
 
 * Connects to a geth client
 * Retrieves the balance (Morden as an example) from a Maker contract using the given address. 
