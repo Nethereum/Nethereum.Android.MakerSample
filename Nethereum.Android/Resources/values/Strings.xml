@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Click to get your account</string>
+    <string name="ApplicationName">Nethereum Android</string>
+    <string name="Balance">Balance:</string>
+    <string name="Connect">Connect</string>
+    <string name="Transfer">Transfer</string>
+    <string name="TransferTo">To:</string>
+    <string name="TransferAmount">Amount:</string>
+</resources>
